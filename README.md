@@ -1,5 +1,5 @@
 ---
-title: "README for Getting and Cleaning Data Assignment"
+title: "README.md file for Getting and Cleaning Data Assignment"
 author: "mggrech"
 date: "8/21/2020"
 ---
