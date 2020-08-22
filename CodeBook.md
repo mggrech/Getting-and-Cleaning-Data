@@ -3,6 +3,7 @@ title: "Code Book for Getting and Cleaning Data Assignment"
 author: "mggrech"
 date: "8/21/2020"
 ---
+# Code Book for Getting and Cleaning Data Assignment
 
 This **Code Book** describes the _data_, the _variables_ and the _work that was performed 
 to clean up the data_.
