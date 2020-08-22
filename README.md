@@ -1,8 +1,7 @@
 ---
 title: "README for Getting and Cleaning Data Assignment"
-author: "Created by: GG"
-date: "Date: 8/21/2020"
-output: html_document
+author: "mggrech"
+date: "8/21/2020"
 ---
 
 The files in this repository are created for the Peer Review assignment of 
