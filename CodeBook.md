@@ -142,7 +142,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-![](features_1.PNG)
+![](features_1.png)
 
 The complete list of variables of each feature vector is available in 'features.txt'. 
 
