@@ -48,7 +48,7 @@ the R viewer (the file path may need to be changed according to where you save t
 The image below shows the contents of tidy_data.txt obtained after reading the file
 back into R with the sample code provided above. 
 
-![](/Users/DrGraz/Documents/Data Science/Assignments/Getting and Cleaning Data/images/tidy_data.png)
+![](Getting-and-Cleaning-Data/images/tidy_data.png)
     
 (III) A code book called **CodeBook.md** that modifies and updates the available codebooks for the original data to indicate all the variables and summaries calculated, along with units and other relevant information.
 
