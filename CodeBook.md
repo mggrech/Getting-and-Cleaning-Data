@@ -4,8 +4,8 @@ author: "mggrech"
 date: "8/21/2020"
 ---
 
-This **Code Book** describes the data, the variables and the work that was performed 
-to clean up the data.
+This **Code Book** describes the _data_, the _variables_ and the _work that was performed 
+to clean up the data_.
 
 **1. The data**
 
