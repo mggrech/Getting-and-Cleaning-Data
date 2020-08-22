@@ -1,8 +1,7 @@
 ---
 title: "Code Book for Getting and Cleaning Data Assignment"
-author: "Created by: GG"
-date: "Date: 8/21/2020"
-output: html_document
+author: "mggrech"
+date: "8/21/2020"
 ---
 
 This **Code Book** describes the data, the variables and the work that was performed 
@@ -54,7 +53,7 @@ The word accelerometer or gyrometer is included in the variable name for easy id
 
 A summary of all the variables is provided in the following table:
 
-![](/Users/DrGraz/Documents/Data Science/Assignments/Getting and Cleaning Data/images/table.png)
+![](images/table.png)
 
 Additional information on these variables from the original code books is included at the end
 of this document for easy reference in the sections called **Appendix I** and **Appendix II**.
@@ -143,7 +142,7 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-![](/Users/DrGraz/Documents/Data Science/Assignments/Getting and Cleaning Data/images/features_1.png)
+![](features_1.PNG)
 
 The complete list of variables of each feature vector is available in 'features.txt'. 
 
@@ -152,4 +151,4 @@ The complete list of variables of each feature vector is available in 'features.
 **namely those variables that contain the mean and standard deviation for each measurement.** 
 **They are show in the following table:**
 
-![](/Users/DrGraz/Documents/Data Science/Assignments/Getting and Cleaning Data/images/features_2.png)
+![](images/features_2.png)
