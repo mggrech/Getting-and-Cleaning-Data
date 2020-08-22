@@ -3,6 +3,7 @@ title: "README for Getting and Cleaning Data Assignment"
 author: "mggrech"
 date: "8/21/2020"
 ---
+# README.md
 
 The files in this repository are created for the Peer Review assignment of 
 Coursera's **Getting and Cleaning Data** course. The objective of the assignment is to 
@@ -10,7 +11,7 @@ demonstrate the ability to *collect*, *work with*, and *clean* a data set.
 The data used and analyzed are from an experiment about
 _Human Activity Recognition Using Smartphones_.
 
-In addition to this **README file**, in this repository you will find:
+In addition to this **README** file, in this repository you will find:
 
 (I) An R script called **run_analysis.R** which does the following:
 
