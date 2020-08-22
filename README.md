@@ -52,6 +52,8 @@ back into R with the sample code provided above.
     
 (III) A code book called **CodeBook.md** that modifies and updates the available codebooks for the original data to indicate all the variables and summaries calculated, along with units and other relevant information.
 
+(IV) The subdirectory called _images_ contains the images that are embedded in this **README.md** file and in **CodeBook.md**.
+
 **References:**
 
   1. Paper on Tidy Data by Hadley Wickham: (https://vita.had.co.nz/papers/tidy-data.pdf)  
